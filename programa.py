@@ -10,4 +10,6 @@ for i in range(3):
 message = f"Hello, {name}! Greeting #{i+1}"
 print(message)
 
+print("Program completed successfully!")
+
 print_greeting()
