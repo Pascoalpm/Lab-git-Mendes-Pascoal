@@ -1,2 +1,3 @@
-# Git Lab Program
-print("Hello, world!")
+# Git Lab - Sample Program
+message = "Hello, World! This is my first program."
+print(message)
